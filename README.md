@@ -1,3 +1,5 @@
 # CRUDCore
 
-This project is about my first CRUD made in .NET Core using Microsoft SQL Server for the database model
+Este proyecto es sobre mi primer CRUD hecho en .NET Core usando Microsoft SQL Server para el modelo de base de datos.
+
+En la rama master estarán publicados todos mis commit del proyecto CRUD
